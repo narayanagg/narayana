@@ -1,0 +1,43 @@
+{
+    "artists":[
+        {
+            "id":1,
+            "name":"jimi",
+            "cover":"jimi",
+            "bio":"lorem..............",
+            "albums":[
+                {"albumid":"a1","title":"Electric"},
+                {"albumid":"a2","title":"Electric"},
+                {"albumid":"a3","title":"Electric"}
+            ],
+            "genere":"rock,blues"
+        
+        },
+        {
+            "id":2,
+            "name":"jimi 2",
+            "cover":"jimi",
+            "bio":"lorem..............",
+            "albums":[
+                {"albumid":"a1","title":"Electric"},
+                {"albumid":"a2","title":"Electric"},
+                {"albumid":"a3","title":"Electric"}
+            ],
+            "genere":"rock,blues"
+        
+        },
+        {
+            "id":3,
+            "name":"jimi 3",
+            "cover":"jimi",
+            "bio":"lorem..............",
+            "albums":[
+                {"albumid":"a1","title":"Electric"},
+                {"albumid":"a2","title":"Electric"},
+                {"albumid":"a3","title":"Electric"}
+            ],
+            "genere":"rock,blues"
+        
+        }
+    ]
+}
